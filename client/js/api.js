@@ -84,7 +84,7 @@
         `
         ).join('')}
         <li class="price-tag-line">
-        <a href="/">Elegir plan</a>
+        <a href="#">Elegir plan</a>
       </li>
       </ul>
     </div>`
